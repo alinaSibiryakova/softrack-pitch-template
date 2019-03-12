@@ -1,6 +1,7 @@
-## Шаблон презентаций Softrack
+## Android Architecture
 
-- Тема определена в PITCHME.yaml
-- Logo лежит в assets/images/logo.png
-- Ссылку на конечную презентацию обязательно класть в README.md
-- Ссылку на презентацию добавить в репо [meetup-list](https://github.com/Softrack-LLP/meetup-list)
+- Болевые точки первых Андройд приложений 
+- 4 золотых правила архитектуры Андройд приложений 
+- Первая попытка: God Activity
+- Вторая попытка: паттерн MVP
+- Третья попытка: паттерн MVP + managers
